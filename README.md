@@ -6,7 +6,7 @@ The model for this dataset is quite simple with only two classes, so we chose th
 
 Files :
 
-modelTest.ipynb -- Notebook to test the model, this file uploaded to Google Cloud Service for the Android Application
+modelImprovedTest.ipynb -- Notebook to test the model, this file uploaded to Google Cloud Service for the Android Application
 
 trainModel.ipynb -- Notebook to train the model.
 
